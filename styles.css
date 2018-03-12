@@ -1,0 +1,45 @@
+* {
+  font-family: helvetica, sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: #b2ad7f;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+TODO /*Italicize any book titles that appear in the text content of the page*/
+/*h1, h2 {
+  font-style: italic;
+}*/
+
+body {
+  /*font-family: helvetica, sans-serif;*/
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1, h2, h3, h4 {
+  color: #6b5b95;
+}
+
+footer {
+  /*font-family: "Times New Roman", Times, serif;*/
+  text-align: center;
+  background-color: #6b5b95;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+main {
+  background-color: #a2b9bc;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+nav a:hover {
+    background-color: #bdcebe;
+}
